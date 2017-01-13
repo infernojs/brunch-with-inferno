@@ -4,7 +4,7 @@ This is a modern JS skeleton with Inferno for Brunch. Includes `inferno` and `in
 
 ## Installation
 
-Clone this repo manually or use `brunch new dir -s rafaelkallis/brunch-with-inferno`.
+Clone this repo manually or use `brunch new your-project -s inferno` or `brunch new your-project -s infernojs/brunch-with-inferno`.
 
 ## Getting started
 
