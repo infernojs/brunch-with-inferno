@@ -4,12 +4,12 @@ This is a modern JS skeleton with Inferno for Brunch. Includes `inferno` and `in
 
 ## Installation
 
-Clone this repo manually or use `brunch new your-project -s infernojs/brunch-with-inferno`.
+Clone this repo manually or use `brunch new your-project -s inferno`.
 
 ## Getting started
 
 * Install (if you don't have them):
-    * [Node.js](http://nodejs.org): `brew install node` on OS X
+    * [Node.js](http://nodejs.org): `brew install node` on macOS
     * [Brunch](http://brunch.io): `npm install -g brunch`
     * Brunch plugins and app dependencies: `npm install`
 * Run:
@@ -20,3 +20,5 @@ Clone this repo manually or use `brunch new your-project -s infernojs/brunch-wit
     * Place static files you want to be copied from `app/assets/` to `public/`.
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
 	* [Inferno site](https://infernojs.org), [Getting started guide](https://infernojs.org/docs/guides/getting-started)
+
+Make sure you have the latest version of brunch. Creating a new inferno project with brunch is supported since `brunch@v2.10.0`.
