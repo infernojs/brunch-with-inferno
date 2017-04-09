@@ -1,4 +1,8 @@
 {
-	"presets": ["latest"],
-    "plugins": ["inferno"]
+    "presets": [
+        "env"
+    ],
+    "plugins": [
+        "inferno"
+    ]
 }
