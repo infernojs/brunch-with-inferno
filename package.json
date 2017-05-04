@@ -12,8 +12,8 @@
     "prod": "brunch build --production"
   },
   "dependencies": {
-    "inferno": "^3.0.3",
-    "inferno-component": "^3.0.3"
+    "inferno": "^3.1.0",
+    "inferno-component": "^3.1.0"
   },
   "devDependencies": {
     "auto-reload-brunch": "^2.7.1",
