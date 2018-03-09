@@ -1,7 +1,6 @@
 exports.npm = {
     globals: {
-        Inferno: 'inferno',
-        Component: 'inferno-component'
+        Inferno: 'inferno'
     }
 }
 
