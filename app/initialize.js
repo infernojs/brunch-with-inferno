@@ -1,6 +1,6 @@
 import Banner from './components/banner';
 
-class App extends Component {
+class App extends Inferno.Component {
 
     render(){
         return (
