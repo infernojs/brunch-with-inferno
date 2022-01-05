@@ -12,18 +12,20 @@
     "prod": "brunch build --production"
   },
   "dependencies": {
-    "inferno": "^5.0.2"
+    "inferno": "^v8.0.0-alpha.3"
   },
   "devDependencies": {
-    "auto-reload-brunch": "^2.7.1",
-    "babel-brunch": "^6.1.1",
-    "babel-plugin-inferno": "^5.0.1",
-    "babel-plugin-syntax-jsx": "^6.18.0",
-    "babel-preset-env": "^1.5.2",
-    "brunch": "^2.10.9",
-    "clean-css-brunch": "^2.10.0",
-    "css-brunch": "^2.10.0",
-    "javascript-brunch": "^2.10.0",
-    "uglify-js-brunch": "^2.10.0"
+    "@babel/plugin-syntax-jsx": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/register": "^7.14.5",
+    "@babel/runtime": "^7.13.17",
+    "auto-reload-brunch": "^3",
+    "babel-brunch": "^7",
+    "babel-plugin-inferno": "^6.3.0",
+    "brunch": "^4",
+    "clean-css-brunch": "^3",
+    "css-brunch": "^2",
+    "uglify-js-brunch": "^2",
+    "javascript-brunch": "^2"
   }
 }
