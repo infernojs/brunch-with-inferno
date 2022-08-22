@@ -18,6 +18,7 @@
 .tmproj
 nbproject
 Thumbs.db
+.idea
 
 # NPM & Yarn
 node_modules/
